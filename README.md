@@ -13,22 +13,18 @@
 > "An exploration of glassmorphism and minimalist vector logic."
 
 This repository serves as a live archive for my design evolution. It documents the transition from raw concepts to finished UI components.
+
+---
+
 ### 📜 <samp>system_log // entry_001</samp>
 > **Date:** 16.03.2026
 > **Status:** Initializing Design Archive
 > **Focus:** High-Contrast Glassmorphism & Minimalist Vector Geometry
 
----
-
 #### 🟢 Current Objectives:
-* [x] **Core Identity:** Established `ethose-exe` visual language (Cyber-Cyan/Amethyst).
+* [x] **Core Identity:** Established `ethose-exe` visual language.
 * [ ] **Vector Suite:** Drafting 5 unique flat-vector icons for the "Logic & Motion" series.
-* [ ] **UI Kit:** Developing a frosted-glass card component library for web integration.
-
-#### 💡 Dev_Note:
-"The goal of this repository is to prove that science and art aren't separate. Every vector is built on geometry; every layout is built on logic. Currently balancing these experiments with BITSAT 2026 prep—efficiency is the only priority."
-
----
+* [ ] **UI Kit:** Developing a frosted-glass card component library.
 
 ---
 
@@ -43,7 +39,7 @@ This repository serves as a live archive for my design evolution. It documents t
 
 ### 📈 <samp>repo_metrics</samp>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethose-exe&repo=minimalist-designs&theme=tokyonight&title_color=03DAC6&text_color=ffffff&icon_color=BB86FC&bg_color=0,00000000&hide_border=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethose-exe&repo=minimalist-designs&theme=transparent&title_color=03DAC6&text_color=ffffff&icon_color=BB86FC&bg_color=0,00000000&hide_border=true" width="400px" />
 </p>
 
 <br/>
